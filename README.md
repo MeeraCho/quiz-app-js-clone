@@ -1,1 +1,1 @@
-# korean-quiz-app
+# Javascript Quiz App Clone coding
